@@ -1,5 +1,4 @@
 {
-  "name": "Hadeel",
-  "email": "hello@cypress.io",
-  "body": "Fixtures are a great way to mock data for responses to routes"
+      "name": ["Qasem", "User1", "User2", "User3", "User4", "User5"],
+      "email": ["qdaqqa@itgsoftware.com", "user1@test.com", "user2@test.com", "user3@test.com", "user4@test.com", "user5@test.com"]
 }
